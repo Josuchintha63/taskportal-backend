@@ -275,8 +275,7 @@ All protected endpoints require an `Authorization: Bearer <token>` header, attac
 ---
 
 ## Author
-
-**Chintha Jyoshna**
-MCA Graduate (2025)
-Java Full Stack Developer
-GitHub: [Josuchintha63](https://github.com/Josuchintha63)
+--**Chintha Jyoshna**
+--MCA Graduate (2025).
+--Java Full Stack Developer.
+--GitHub: [Josuchintha63](https://github.com/Josuchintha63)
