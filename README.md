@@ -239,9 +239,20 @@ All protected endpoints require an `Authorization: Bearer <token>` header, attac
 
 ## Screenshots
 
-> 📌 Add screenshots here: Login page, Register page, Dashboard (empty + with tasks), AI generation in action, Task CRUD.
+> ### Login Page
+![Login Page](screenshots/login.png)
 
----
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Dashboard (Empty)
+![Dashboard Empty](screenshots/dashboard-empty.png)
+
+### Dashboard (With Tasks)
+![Dashboard Tasks](screenshots/dashboard-tasks.png)
+
+### AI Feature
+![AI Feature](screenshots/ai-feature.png)
 
 ## Assumptions
 
