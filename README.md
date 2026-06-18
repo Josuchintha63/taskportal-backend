@@ -233,9 +233,21 @@ All protected endpoints require an `Authorization: Bearer <token>` header, attac
 
 **Relationship:** One `User` has many `Task` records (one-to-many). Ownership is enforced both at the database level (foreign key) and at the service layer (every update/delete re-checks that the task belongs to the requesting user).
 
-> 📌 ER diagram / schema screenshot to be added here.
+> Database Schema Attached:
+     - Aiven Database Screenshot
+     - Users Table Structure
+     - Tasks Table Structure
+> Screenshots
 
----
+> ### Database Configuration (Aiven)
+![Aiven Database](screenshots/aiven-database.png)
+
+### Users Table Schema
+![Users Schema](screenshots/users-schema.png)
+
+### Tasks Table Schema
+![Tasks Schema](screenshots/tasks-schema.png)
+
 
 ## Screenshots
 
