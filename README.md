@@ -237,16 +237,6 @@ All protected endpoints require an `Authorization: Bearer <token>` header, attac
      - Aiven Database Screenshot
      - Users Table Structure
      - Tasks Table Structure
-> Screenshots
-
-> ### Database Configuration (Aiven)
-![Aiven Database](screenshots/aiven-database.png)
-
-### Users Table Schema
-![Users Schema](screenshots/users-schema.png)
-
-### Tasks Table Schema
-![Tasks Schema](screenshots/tasks-schema.png)
 
 
 ## Screenshots
@@ -287,4 +277,6 @@ All protected endpoints require an `Authorization: Bearer <token>` header, attac
 ## Author
 
 **Chintha Jyoshna**
+MCA Graduate (2025)
+Java Full Stack Developer
 GitHub: [Josuchintha63](https://github.com/Josuchintha63)
